@@ -1,4 +1,5 @@
 # Super_Market
+Analysis of Sales - trends - Customers - Means of Payment and Forecast - of a Super Market
 
 **Compare multiple City sales and quantity sold over 13 weeks in every Departments**
 ![image](https://github.com/user-attachments/assets/7d3db3d1-0794-44f0-b637-f4bfad3a136c)
